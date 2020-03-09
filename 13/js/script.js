@@ -9,6 +9,7 @@ window.addEventListener('DOMContentLoaded', () => {
             tabContent[i].classList.add('hide');
         }
     };
+    
     hideContent(1);
 
     let showContent = (b) => {
